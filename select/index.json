@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "JOURNEE",
+  "base_artist": "JELEE",
+  "createdAt": "2025-12-04T03:09:29.633155Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "La journée est finie",
+      "artist": "Claude-Michel Schönberg",
+      "has_synced": true,
+      "path": "select/01_La_journée_est_finie_Claude-Michel_Schönberg.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "La journée est finie",
+      "artist": "Claude‐Michel Schönberg",
+      "has_synced": true,
+      "path": "select/02_La_journée_est_finie_Claude‐Michel_Schönberg.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bonne journée",
+      "artist": "Stromae",
+      "has_synced": true,
+      "path": "select/03_Bonne_journée_Stromae.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mauvaise journée",
+      "artist": "Stromae",
+      "has_synced": true,
+      "path": "select/04_Mauvaise_journée_Stromae.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Da Journee",
+      "artist": "Redman",
+      "has_synced": true,
+      "path": "select/05_Da_Journee_Redman.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Cette journée",
+      "artist": "ZAZ",
+      "has_synced": true,
+      "path": "select/06_Cette_journée_ZAZ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "C'est une belle journée - Live Version",
+      "artist": "Les Enfoirés",
+      "has_synced": true,
+      "path": "select/07_C'est_une_belle_journée_-_Live_Version_Les_Enfoirés.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "C'est Une Belle Journée",
+      "artist": "Les Enfoirés",
+      "has_synced": true,
+      "path": "select/08_C'est_Une_Belle_Journée_Les_Enfoirés.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "C'est une belle journée",
+      "artist": "Mylène Farmer",
+      "has_synced": true,
+      "path": "select/09_C'est_une_belle_journée_Mylène_Farmer.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "C'est une belle journée",
+      "artist": "Mylène Farmer",
+      "has_synced": false,
+      "path": "select/10_C'est_une_belle_journée_Mylène_Farmer.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dernière journée en mer",
+      "artist": "Matmatah",
+      "has_synced": false,
+      "path": "select/11_Dernière_journée_en_mer_Matmatah.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Une Nouvelle Journée",
+      "artist": "Irie Révoltés",
+      "has_synced": true,
+      "path": "select/12_Une_Nouvelle_Journée_Irie_Révoltés.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Journée d'Amérique",
+      "artist": "Richard Séguin",
+      "has_synced": true,
+      "path": "select/13_Journée_d'Amérique_Richard_Séguin.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "merci bonne journée",
+      "artist": "Mairo feat. H JeuneCrack",
+      "has_synced": true,
+      "path": "select/14_merci_bonne_journée_Mairo_feat._H_JeuneCrack.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "merci bonne journée",
+      "artist": "Mairo",
+      "has_synced": false,
+      "path": "select/15_merci_bonne_journée_Mairo.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "C'est une belle journée",
+      "artist": "Mylène Farmer",
+      "has_synced": true,
+      "path": "select/16_C'est_une_belle_journée_Mylène_Farmer.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Mauvaise journée (Explicit)",
+      "artist": "Stromae",
+      "has_synced": true,
+      "path": "select/17_Mauvaise_journée_(Explicit)_Stromae.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "JOURNEE",
+      "artist": "JELEE",
+      "has_synced": false,
+      "path": "select/pl_01_JOURNEE_JELEE.txt"
+    }
+  ]
+}
